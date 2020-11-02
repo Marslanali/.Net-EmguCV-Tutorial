@@ -26,30 +26,29 @@ EmguCV is a .Net wrapper to the OpenCV image processing library.
 ## Demo for List of .Net-EmguCV-Tutorial
 EmguCV is a .Net wrapper to the OpenCV image processing library. To build run the following command in terminal:
 
-* [EmguCV](https://www.mlpack.org/)  Version 3.4.1   - :ballot_box_with_check:
+* [EmguCV](https://www.mlpack.org/)
 
-* [C# .Net Framework](https://www.mlpack.org/)  Version 3.4.1  - :ballot_box_with_check:
+* [C# .Net Framework](https://www.mlpack.org/)  
 
-* [EmguCV](https://www.mlpack.org/)  Version 3.4.1
+* [EmguCV](https://www.mlpack.org/)
 
-* [C# .Net Framework](https://www.mlpack.org/)  Version 3.4.1
+* [C# .Net Framework](https://www.mlpack.org/)  
 
-* [EmguCV](https://www.mlpack.org/)  Version 3.4.1
+* [EmguCV](https://www.mlpack.org/)
 
-* [C# .Net Framework](https://www.mlpack.org/)  Version 3.4.1
+* [C# .Net Framework](https://www.mlpack.org/)  
 
-* [EmguCV](https://www.mlpack.org/)  Version 3.4.1
+* [EmguCV](https://www.mlpack.org/)
 
-* [C# .Net Framework](https://www.mlpack.org/)  Version 3.4.1
+* [C# .Net Framework](https://www.mlpack.org/)  
 
-* [EmguCV](https://www.mlpack.org/)  Version 3.4.1
+* [EmguCV](https://www.mlpack.org/)
 
-* [C# .Net Framework](https://www.mlpack.org/)  Version 3.4.1
+* [C# .Net Framework](https://www.mlpack.org/)  
 
-* [EmguCV](https://www.mlpack.org/)  Version 3.4.1
+* [EmguCV](https://www.mlpack.org/)
 
-* [C# .Net Framework](https://www.mlpack.org/)  Version 3.4.1
-
+* [C# .Net Framework](https://www.mlpack.org/)  
 
 ## Dependencies
 
@@ -93,7 +92,7 @@ sudo make install
 
 ## To-Do List
 
-:ballot_box_with_check: Refactor src/include
-:ballot_box_with_check: Refactor src/include
-:ballot_box_with_check: Refactor src/include
-:ballot_box_with_check: Refactor src/include
+- :ballot_box_with_check: Refactor src/include
+- :ballot_box_with_check: Refactor src/include
+- :ballot_box_with_check: Refactor src/include
+- :ballot_box_with_check: Refactor src/include
