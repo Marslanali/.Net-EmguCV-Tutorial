@@ -21,7 +21,6 @@ namespace EmguCVTutorial2
         Image<Bgr, byte> _InputImage;
         Image<Gray, byte> _GrayImage;
 
-
         public Form1()
         {
             InitializeComponent();
