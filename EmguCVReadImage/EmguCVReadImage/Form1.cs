@@ -40,15 +40,11 @@ namespace EmguCVReadImage
 
                 }
 
-
-
-
             }
             catch (Exception ex)
             {
 
                 MessageBox.Show(ex.Message);
-
         
             }
         }
