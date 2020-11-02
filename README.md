@@ -94,6 +94,6 @@ sudo make install
 ## To-Do List
 
 :ballot_box_with_check: Refactor src/include
-- :ballot_box_with_check: Refactor src/include
-- :ballot_box_with_check: Refactor src/include
-- :ballot_box_with_check: Refactor src/include
+:ballot_box_with_check: Refactor src/include
+:ballot_box_with_check: Refactor src/include
+:ballot_box_with_check: Refactor src/include
